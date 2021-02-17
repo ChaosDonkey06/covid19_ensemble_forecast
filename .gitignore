@@ -1,3 +1,8 @@
+# covid19-forecast-hub ignore
+./covid19-forecast-hub/*
+./covid19-forecast-hub/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
