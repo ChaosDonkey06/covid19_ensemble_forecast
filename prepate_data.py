@@ -70,3 +70,4 @@ df_forecast = pd.read_csv(URL_FORECAST)
 
 df1.to_csv(os.path.join(path_to_save, 'data','cases.csv'))
 df2.to_csv(os.path.join(path_to_save, 'data','deaths.csv'))
+
