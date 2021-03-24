@@ -1,6 +1,8 @@
 # covid19-forecast-hub ignore
 ./covid19-forecast-hub/*
 ./covid19-forecast-hub/
+./covid19-forecast-hub
+
 ./neural-stack/*
 ./neural-stack/
 ./neural-stack
